@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'STFacebook' target in the 'STFacebook' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
